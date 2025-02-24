@@ -1,2 +1,2 @@
 ﻿# transportacol_project
-![Vista previa del proyecto](view_01.PNG)
+![Vista previa del proyecto](view_01.png)
